@@ -13,8 +13,8 @@ export const site = {
   domain: "asiatlas.com",
   email: "contact@asiaatlas.com",
   whatsapp: [
-    { label: "Malaysia", number: "+60222222222" },
-    { label: "Algeria", number: "+21366666666" },
+    { label: "Malaysia", number: "+60198654775" },
+    // { label: "Algeria", number: "+21366666666" },
   ],
   // Add real profile URLs to show them in the footer.
   social: [] as { label: string; href: string }[],
